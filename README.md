@@ -1,7 +1,7 @@
 ## Aashish Ghimire
 Hi,
 I am Aashish - a Ph.D Student at Utah State University. 
-### My research interest include Machine Learning, with focus in Natural Language Processing and Information Extraction. 
+### My research interest include applied machine Learning, with focus in Natural Language Processing and Information Extraction. 
 
 
 
