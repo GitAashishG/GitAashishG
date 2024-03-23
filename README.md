@@ -1,6 +1,6 @@
 ## Aashish Ghimire
 Currently, Software Engineer at Office of CTO, SMT division, Microsoft
-- Pd.D. + Masters (CS) : Utah state university + University of Utah
+- Ph.D. + Masters (CS) : Utah state university + University of Utah
 - B.S : Coppin State University
 
 ### My research interest include applied machine Learning, with focus in application of Generative AI.
